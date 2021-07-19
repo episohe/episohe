@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h2 align="center"> Hi there 👋 </h2>
 
 <h2 align="center> 
 I'm back-end developer
@@ -9,8 +9,7 @@ I'm back-end developer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-           </h2>
+- ⚡ Fun fact: ...</h2>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
