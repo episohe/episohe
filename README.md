@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there ✌🏻 </h3>
 
 <p align=center>
-🍎 I'm back-end developer
+ I'm back-end developer
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...Cancel changes
