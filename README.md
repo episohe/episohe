@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+
+<h2 align="center> 
 I'm back-end developer
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...Cancel changes
@@ -10,6 +10,7 @@ I'm back-end developer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+           </h2>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
