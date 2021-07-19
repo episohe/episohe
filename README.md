@@ -22,8 +22,9 @@ I'm back-end developer
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
+
+<h3 align="center">저를 더 알고싶다면</h3>
 <p align="center">
-<h3>저를 더 알고싶다면</h3>
 <a href="https://corncream.tistory.com/">
     <img src="http://img.shields.io/badge/DevLog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
